@@ -31,5 +31,3 @@ jobs:
 
       - name: Production build
         run: npx vite build
-        
-      - name: Setup Bun
